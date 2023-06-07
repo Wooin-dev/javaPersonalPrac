@@ -11,6 +11,7 @@ public class ArrayList_LinkedListShift {
         //      Collection, Set, ArrayList, LinkedList,
         //      Vector, Arrays.asList(Object[]), Collections.nCopies(int, Object),
         //      Collections.EMPTY_LIST, AbstractList, AbstractSequentialList
+        
 
 
         list.add(1);
