@@ -7,9 +7,6 @@ public class stringPrac {
         printStr.toUpperCase();
 
 
-
-
-
         System.out.println(printStr);
     }
 }
