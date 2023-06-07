@@ -7,6 +7,14 @@ public class Upcasting {
 
         Animal[] zoo = {dog, cat, goat};
 
+//        Animal fakeDog = new Animal();
+//        Dog realDog = (Dog) fakeDog;
+//
+//        System.out.println(realDog.size);
+
+
+
+
         for(Animal mal : zoo){
             mal.bark(); //같은 메소드이지만 각 오버라이딩된 메소드로 실행된다.
         }
