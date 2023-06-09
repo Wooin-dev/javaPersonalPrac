@@ -1,3 +1,5 @@
+package etcPrac;
+
 public class Upcasting {
     public static void main(String[] args) {
 
@@ -7,8 +9,8 @@ public class Upcasting {
 
         Animal[] zoo = {dog, cat, goat};
 
-//        Animal fakeDog = new Animal();
-//        Dog realDog = (Dog) fakeDog;
+//        etcPrac.Animal fakeDog = new etcPrac.Animal();
+//        etcPrac.Dog realDog = (etcPrac.Dog) fakeDog;
 //
 //        System.out.println(realDog.size);
 

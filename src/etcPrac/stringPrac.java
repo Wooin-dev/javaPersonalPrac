@@ -1,3 +1,5 @@
+package etcPrac;
+
 import java.util.Locale;
 
 public class stringPrac {
