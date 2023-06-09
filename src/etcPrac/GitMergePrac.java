@@ -1,3 +1,5 @@
+package etcPrac;
+
 public class GitMergePrac {
     public static void main(String[] args) {
         String str1 = "마스터 브랜치라고 무조건 가만히 있지 않지.";
